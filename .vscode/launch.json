@@ -104,9 +104,9 @@
 			"name": "VS Code Tokenizer Tests",
 			"runtimeExecutable": "${execPath}",
 			"args": [
-				"${workspaceFolder}/extensions/vscode-colorize-tests/test",
-				"--extensionDevelopmentPath=${workspaceFolder}/extensions/vscode-colorize-tests",
-				"--extensionTestsPath=${workspaceFolder}/extensions/vscode-colorize-tests/out"
+				// "${workspaceFolder}/extensions/vscode-colorize-tests/test",
+				// "--extensionDevelopmentPath=${workspaceFolder}/extensions/vscode-colorize-tests",
+				// "--extensionTestsPath=${workspaceFolder}/extensions/vscode-colorize-tests/out"
 			],
 			"outFiles": [
 				"${workspaceFolder}/out/**/*.js"
